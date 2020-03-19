@@ -1,4 +1,4 @@
-Welocome to COVID-19 WFH Day 1! 
+### Welocome to COVID-19 WFH Day 1! 
 
 Each day I'll be completing a quick JS project while home in self-isolation.
 Gotta keep sharp!
